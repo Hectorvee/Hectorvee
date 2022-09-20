@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hectorvee
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Software Development
+- 👀 I’m interested in Data Science field
+- 🌱 I’m currently learning Computer Science
 - 📫 How to reach me vukosi1632@gmail.com
 
 <!---
