@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hectorvee
-- 👀 I’m interested in Data Science field
+- 👀 I’m interested in Data Science and Machine Learning field
 - 🌱 I’m currently learning Computer Science and Statistics
 - 📫 How to reach me vukosi1632@gmail.com
 
